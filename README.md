@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranathi-tammina1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathi-tammina1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranathi-tammina1&show_icons=true&theme=dark" alt="Pranathi's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathi-tammina1&layout=compact&theme=dark" alt="Most Used Languages" height="165" />
 </div>
 
 <br />
