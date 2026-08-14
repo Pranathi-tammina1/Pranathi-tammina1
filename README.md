@@ -47,9 +47,14 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Overview
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranathi-tammina1&show_icons=true&theme=dark" alt="Pranathi's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathi-tammina1&layout=compact&theme=dark" alt="Most Used Languages" height="165" />
+
+![](https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Main%20Language-C%23%20%2F%20JS-brightgreen?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Contributions-Active-orange?style=for-the-badge)
+
 </div>
 
 <br />
