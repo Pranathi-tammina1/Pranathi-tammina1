@@ -41,7 +41,7 @@
 | :--- | :--- | :--- | :---: |
 | 🧠 **[AINoteHubAPI](https://github.com/Pranathi-tammina1/AINoteHubAPI)** | Smart RESTful API backend for AI-powered note management. | `C#` `.NET Core` `AI` | 🛠️ In Progress |
 | ⚡ **[friendly-engine](https://github.com/Pranathi-tammina1/friendly-engine)** | Collection of interactive Vanilla JS applications & live demos. | `JavaScript` `HTML/CSS` | 🚀 Live Demos |
-| 🛍️ **[E-Commerce](https://github.com/Pranathi-tammina1/E-Commerce)** | Full-featured web application for online shopping operations. | `JavaScript` `React` | 📦 Active |
+| 🛍️ **[E-Commerce](https://github.com/Pranathi-tammina1/E-Commerce)** | RESTful API for managing users & products with Swagger docs. | `Node.js` `Express.js` `Swagger` | 📦 Active |
 
 ---
 
