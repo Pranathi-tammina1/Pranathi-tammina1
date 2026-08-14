@@ -45,7 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Overview
 
